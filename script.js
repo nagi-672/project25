@@ -27,7 +27,7 @@ setTimeout(() => {
     splash.style.opacity = '0';
     setTimeout(() =>{
         splash.style.display = 'none';
-        portfolio.style.display = 'black';
+        portfolio.style.display = 'block';
     }, 1000);
 }, 2500);
 
