@@ -296,7 +296,7 @@ button{
    .footer__links a:hover{
     color:brown;
    }
-@media(max-width:570px){
+@media(max-width:576px){
     #splash{
     display:flex;
     justify-content: center;
