@@ -393,7 +393,7 @@ button{
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
-    margin: 10px;
+    margin-bottom: 60px;
 }
 .profilePhoto{
     height:48vh;
@@ -457,11 +457,11 @@ button{
     font-size: 18px;
    }
    fieldset{
-    margin-left:5px;
-    margin:30px;
+    margin-left:15px;
+    margin:40px;
    }
    button{
-    margin-left:6vh;
+    margin-left:5vh;
    }
    .cross{
     color:white;
