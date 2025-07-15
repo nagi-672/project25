@@ -297,7 +297,7 @@ button{
    .footer__links a:hover{
     color:brown;
    }
-@media(max-width:768px){
+@media(max-width:576px){
     #splash{
     display:flex;
     justify-content: center;
@@ -368,6 +368,8 @@ button{
 }
 #navLinks a{
     padding:5px;
+    display:flex;
+    flex-direction:column;
     border-radius:10px;
     border:1px solid #00000044;
     width:40%;
