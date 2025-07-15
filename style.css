@@ -243,7 +243,7 @@ fieldset{
     max-width: 400px;
     border-radius: 50px;
     background-color: #cbf5de;
-    margin-left:35vw;
+    text-align:center;
     margin-bottom:4vh;
 }
 input,textarea{
@@ -457,11 +457,11 @@ button{
     font-size: 18px;
    }
    fieldset{
-    margin-left:15px;
-    margin:50px;
+    margin-left:5px;
+    margin:30px;
    }
    button{
-    margin-left:13vh;
+    margin-left:6vh;
    }
    .cross{
     color:white;
