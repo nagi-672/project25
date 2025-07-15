@@ -330,6 +330,7 @@ button{
 }
 .about_main{
     text-align: center;
+    margin-right:30px;
 }
 .hamburger{
     display:flex;
