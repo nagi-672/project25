@@ -393,14 +393,13 @@ button{
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
-    margin: 30px;
+    margin: 10px;
 }
 .profilePhoto{
     height:48vh;
-    width:70vw;
+    width:73vw;
     border-radius: 1000px;
     text-align: center;
-    margin-left:-7px;
 }
 .projectheading{
     text-align: center;
