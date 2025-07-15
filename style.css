@@ -327,6 +327,7 @@ button{
 }
 .about{
     width:65%;
+    margin:10px;
 }
 .about_main{
     text-align: center;
@@ -391,15 +392,15 @@ button{
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    gap:10px;
     text-align: center;
+    margin: 60px;
 }
 .profilePhoto{
     height:48vh;
     width:70vw;
     border-radius: 1000px;
     text-align: center;
-    margin-left:-30px;
+    margin-left:-40px;
 }
 .projectheading{
     text-align: center;
