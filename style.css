@@ -388,13 +388,13 @@ button{
     flex-wrap: wrap;
     align-items: center;
     gap:10px;
+    text-align: center;
 }
 .profilePhoto{
-    height:50vh;
+    height:53vh;
     width:70vw;
     border-radius: 1000px;
     text-align: center;
-    margin-left:2vh;
 }
 .projectheading{
     text-align: center;
@@ -410,8 +410,8 @@ button{
   }
     .projects a{
     display:flex;
-    width:65vw;
-    height:38vh;
+    width:70vw;
+    height:40vh;
     line-height: 1.6;
     justify-content: space-evenly;
     align-items: center;
@@ -422,7 +422,7 @@ button{
     filter:drop-shadow(0 15px 50px #000);
    }
    #projects__cutomerchurn {
-    height:80px;
+    height:100px;
    }
    .project1{
      display:flex;
