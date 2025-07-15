@@ -155,11 +155,12 @@ h1:hover{
 .about{
     border:1px solid #00000033;
     border-radius: 100px;
-    width:50vw;
+    width:40vw;
     margin:50px;
     padding:40px;
     text-align: center;
     font-size: 18px;
+    line-height: 1.6;
 }
 .projects{
     display:flex;
@@ -191,7 +192,7 @@ h1:hover{
 }
 .contact-us{
     display:flex;
-    gap:40px;
+    gap:4vw;
     justify-content: center;
     align-items: flex-end;
 }
@@ -323,6 +324,9 @@ button{
     display:flex;
     flex-wrap: wrap;
     font-size: 1vh;
+}
+.about{
+    width:65%;
 }
 .hamburger{
     display:flex;
